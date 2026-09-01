@@ -4,17 +4,17 @@
 | PREAUTH-RCE-002 | Wavlink | WL-WN530HG4 | 认证前RCE | 待模拟 |
 | PREAUTH-RCE-003 | D-Link | DIR-816 A2 | 认证前RCE | 已模拟 |
 | PREAUTH-RCE-004 | D-Link | DIR-882 | 认证绕过 | 待模拟 |
-| PREAUTH-RCE-005 | ASUS | GT-AC2900 | 认证绕过 | 已模拟 |
-| PREAUTH-RCE-006 | NETGEAR | WAC104 | 认证绕过 | 已模拟 |
+| PREAUTH-RCE-005 | ASUS | GT-AC2900 | 认证绕过 | 待模拟 |
+| PREAUTH-RCE-006 | NETGEAR | WAC104 | 认证绕过 | 待模拟 |
 | PREAUTH-RCE-007 | Buffalo | WSR-2533DHPL2/WSR-2533DHP3 | 认证绕过 | 待模拟 |
-| PREAUTH-RCE-008 | NETGEAR | Nighthawk R8300 | 认证前RCE | 已模拟 |
+| PREAUTH-RCE-008 | NETGEAR | Nighthawk R8300 | 认证前RCE | 待模拟 |
 | PREAUTH-RCE-009 | NETGEAR | Nighthawk R7000 | 认证前RCE | 已模拟 |
 | PREAUTH-RCE-010 | NETGEAR | Nighthawk R7000 China-only release | 认证前RCE | 已模拟 |
 | PREAUTH-RCE-011 | NETGEAR | Orbi RBR20 | 认证前RCE | 已模拟 |
 | PREAUTH-RCE-012 | NETGEAR | RAX30 | 认证前RCE | 待模拟 |
 | PREAUTH-RCE-013 | NETGEAR | RAX30 | 认证前RCE | 待模拟 |
-| PREAUTH-RCE-014 | NETGEAR | Nighthawk R6700v3 | 认证前RCE | 已模拟 |
-| PREAUTH-RCE-015 | NETGEAR | Nighthawk R6700v3 | 认证前RCE | 已模拟 |
+| PREAUTH-RCE-014 | NETGEAR | Nighthawk R6700v3 | 认证前RCE | 待模拟 |
+| PREAUTH-RCE-015 | NETGEAR | Nighthawk R6700v3 | 认证前RCE | 待模拟 |
 | PREAUTH-RCE-016 | D-Link | DIR-878 Rev A | 认证前RCE | 待模拟 |
 | PREAUTH-RCE-017 | TP-Link | Archer A7/C7 V5 | 认证前RCE | 已模拟 |
 | PREAUTH-RCE-018 | TP-Link | Archer C7 V5 / AC1750 | 认证前RCE | 已模拟 |
@@ -41,3 +41,6 @@
 | PREAUTH-RCE-039 | D-Link | DIR-880L A1 | 认证前RCE | 已模拟 |
 | PREAUTH-RCE-040 | NETGEAR | Nighthawk R6700 | 认证前RCE | 已模拟 |
 | PREAUTH-RCE-041 | D-Link | DIR-890L A1 | 认证前RCE | 已模拟 |
+| PREAUTH-RCE-042 | D-Link | DIR-850L A1 | 认证前RCE | 已模拟 |
+| PREAUTH-RCE-043 | D-Link | DIR-818LW A1 | 认证前RCE | 已模拟 |
+| PREAUTH-RCE-044 | D-Link | DIR-885L A1 | 认证前RCE | 已模拟 |
