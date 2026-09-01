@@ -50,3 +50,6 @@
 | PREAUTH-RCE-048 | D-Link | DIR-865L A1 | 认证前RCE | 2 | 已模拟 |
 | PREAUTH-RCE-049 | D-Link | DIR-869 A1 | 认证前RCE | 2 | 已模拟 |
 | PREAUTH-RCE-050 | D-Link | DIR-895L A1 | 认证前RCE | 2 | 已模拟 |
+| PREAUTH-RCE-051 | NETGEAR | D6400 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-052 | NETGEAR | Nighthawk R7300DST | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-053 | NETGEAR | R7100LG | 认证前RCE | 1 | 已模拟 |
