@@ -58,3 +58,4 @@
 | PREAUTH-RCE-056 | D-Link | DAP-1522 B1 | 认证前RCE | 2 | 已模拟 |
 | PREAUTH-RCE-057 | D-Link | DAP-1525 A1 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-058 | D-Link | DIR-300 A1 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-059 | D-Link | DIR-300 Bx | 认证前RCE | 1 | 已模拟 |
