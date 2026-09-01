@@ -53,3 +53,4 @@
 | PREAUTH-RCE-051 | NETGEAR | D6400 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-052 | NETGEAR | Nighthawk R7300DST | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-053 | NETGEAR | R7100LG | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-054 | D-Link | DAP-1650 A1 | 认证前RCE | 2 | 已模拟 |
