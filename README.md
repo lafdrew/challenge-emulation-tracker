@@ -63,3 +63,4 @@
 | PREAUTH-RCE-061 | D-Link | DIR-600 B5/B6 | 认证前RCE | 2 | 已模拟 |
 | PREAUTH-RCE-062 | D-Link | DIR-845L A1 | 认证前RCE | 2 | 已模拟 |
 | PREAUTH-RCE-063 | D-Link | DIR-518L A1 | 认证前RCE | 2 | 已模拟 |
+| PREAUTH-RCE-064 | D-Link | DIR-803 A1 | 认证前RCE | 2 | 已模拟 |
