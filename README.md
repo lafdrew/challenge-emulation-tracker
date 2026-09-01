@@ -44,3 +44,9 @@
 | PREAUTH-RCE-042 | D-Link | DIR-850L A1 | 认证前RCE | 2 | 已模拟 |
 | PREAUTH-RCE-043 | D-Link | DIR-818LW A1 | 认证前RCE | 2 | 已模拟 |
 | PREAUTH-RCE-044 | D-Link | DIR-885L A1 | 认证前RCE | 2 | 已模拟 |
+| PREAUTH-RCE-045 | NETGEAR | R6250 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-046 | NETGEAR | Nighthawk X6 R7900 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-047 | D-Link | DIR-817LW A1 | 认证前RCE | 2 | 已模拟 |
+| PREAUTH-RCE-048 | D-Link | DIR-865L A1 | 认证前RCE | 2 | 已模拟 |
+| PREAUTH-RCE-049 | D-Link | DIR-869 A1 | 认证前RCE | 2 | 已模拟 |
+| PREAUTH-RCE-050 | D-Link | DIR-895L A1 | 认证前RCE | 2 | 已模拟 |
