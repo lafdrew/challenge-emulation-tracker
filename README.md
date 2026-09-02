@@ -15,13 +15,13 @@
 | PREAUTH-RCE-013 | NETGEAR | RAX30 | 认证前RCE | - | 已模拟 |
 | PREAUTH-RCE-014 | NETGEAR | Nighthawk R6700v3 | 认证前RCE | - | 已模拟 |
 | PREAUTH-RCE-015 | NETGEAR | Nighthawk R6700v3 | 认证前RCE | - | 已模拟 |
-| PREAUTH-RCE-016 | D-Link | DIR-878 Rev A | 认证前RCE | - | 待模拟 |
+| PREAUTH-RCE-016 | D-Link | DIR-878 Rev A | 认证前RCE | - | 已模拟 |
 | PREAUTH-RCE-017 | TP-Link | Archer A7/C7 V5 | 认证前RCE | - | 已模拟 |
 | PREAUTH-RCE-018 | TP-Link | Archer C7 V5 / AC1750 | 认证前RCE | - | 已模拟 |
 | PREAUTH-RCE-019 | Synology | BC500 IP Camera | 认证前RCE | - | 已模拟 |
 | PREAUTH-RCE-020 | Western Digital | My Cloud Pro PR4100 | 认证前RCE | - | 已模拟 |
 | PREAUTH-RCE-021 | Western Digital | My Cloud Pro PR4100 | 认证前RCE | - | 已模拟 |
-| PREAUTH-RCE-022 | QNAP | QHora-322 | 认证前RCE | - | 待模拟 |
+| PREAUTH-RCE-022 | QNAP | QHora-322 | 认证前RCE | - | 已模拟 |
 | PREAUTH-RCE-023 | Tenda | AC18 AC1900 | 认证前RCE | 2 | 已模拟 |
 | PREAUTH-RCE-024 | Tenda | AC6 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-025 | Tenda | AC9 | 认证前RCE | 2 | 已模拟 |
