@@ -67,3 +67,4 @@
 | PREAUTH-RCE-065 | NETGEAR | D6220 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-066 | NETGEAR | Nighthawk X8 R8500 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-067 | TRENDnet | TEW-751DR | 认证前RCE | 2 | 已模拟 |
+| PREAUTH-RCE-068 | TRENDnet | TEW-733GR | 认证前RCE | 2 | 已模拟 |
