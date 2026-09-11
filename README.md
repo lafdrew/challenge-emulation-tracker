@@ -70,3 +70,5 @@
 | PREAUTH-RCE-068 | TRENDnet | TEW-733GR | 认证前RCE | 2 | 已模拟 |
 | PREAUTH-RCE-069 | D-Link | DIR-842 C1 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-070 | NETGEAR | Nighthawk X4S R6400v2 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-071 | TOTOLINK | A3002R | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-072 | TOTOLINK | A3002R V4 | 认证前RCE | 1 | 已模拟 |
