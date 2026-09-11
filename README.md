@@ -77,3 +77,4 @@
 | PREAUTH-RCE-075 | D-Link | DIR-860L B1 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-076 | TOTOLINK | A3002RU V3 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-077 | D-Link | DIR-868L B1 2.01B05 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-078 | D-Link | DIR-860L B1 2.01B03 | 认证前RCE | 1 | 已模拟 |
