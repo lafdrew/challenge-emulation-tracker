@@ -73,3 +73,4 @@
 | PREAUTH-RCE-071 | TOTOLINK | A3002R | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-072 | TOTOLINK | A3002R V4 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-073 | D-Link | DIR-868L B1 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-074 | TOTOLINK | A3002RU | 认证前RCE | 1 | 已模拟 |
