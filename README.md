@@ -97,3 +97,4 @@
 | PREAUTH-RCE-095 | D-Link | DIR-868L A1 1.07B02 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-096 | D-Link | DIR-868L A1 1.08B07 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-097 | D-Link | DIR-868L A1 1.09B08 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-098 | D-Link | DIR-890L A1 1.06B04 | 认证前RCE | 1 | 已模拟 |
