@@ -90,3 +90,4 @@
 | PREAUTH-RCE-088 | D-Link | DIR-860L A1 1.08B02 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-089 | D-Link | DIR-860L A1 1.09B06 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-090 | D-Link | DIR-860L A1 1.10B04 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-091 | D-Link | DIR-868L A1 1.01B05 | 认证前RCE | 1 | 已模拟 |
