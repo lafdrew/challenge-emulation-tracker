@@ -112,3 +112,4 @@
 | PREAUTH-RCE-110 | D-Link | DIR-850L A1 1.10B08 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-111 | D-Link | DIR-850L A1 1.12B05 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-112 | D-Link | DIR-850L A1 1.13B01 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-113 | D-Link | DIR-859 A1 1.03B04 | 认证前RCE | 1 | 已模拟 |
