@@ -102,3 +102,4 @@
 | PREAUTH-RCE-100 | D-Link | DIR-817LW A1 1.02B01 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-101 | D-Link | DIR-865L A1 1.00B24 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-102 | D-Link | DIR-865L A1 1.02B05 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-103 | D-Link | DIR-865L A1 1.03B02 | 认证前RCE | 1 | 已模拟 |
