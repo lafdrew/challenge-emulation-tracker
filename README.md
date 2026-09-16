@@ -116,3 +116,4 @@
 | PREAUTH-RCE-114 | D-Link | DAP-1650 A1 1.02B02 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-115 | D-Link | DIR-865L A1 1.04B022 Facebook | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-116 | D-Link | DIR-865L A1 1.06B06 Beta | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-117 | D-Link | DIR-803 A1 1.02B01 | 认证前RCE | 1 | 已模拟 |
