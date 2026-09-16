@@ -119,3 +119,4 @@
 | PREAUTH-RCE-117 | D-Link | DIR-803 A1 1.02B01 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-118 | D-Link | DIR-803 A1 1.03B06 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-119 | D-Link | DIR-803 A1 1.04B02 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-120 | D-Link | DIR-890L A1 1.06B01 HOTFIX | 认证前RCE | 1 | 已模拟 |
