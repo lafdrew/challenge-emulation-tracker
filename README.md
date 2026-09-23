@@ -122,3 +122,4 @@
 | PREAUTH-RCE-120 | D-Link | DIR-890L A1 1.06B01 HOTFIX | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-121 | Tenda | AC10 V1.0RTL V15.03.06.23 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-122 | NETGEAR | R7800 V1.0.1.28 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-123 | NETGEAR | XR300 V1.0.1.4 | 认证前RCE | 1 | 已模拟 |
