@@ -125,3 +125,4 @@
 | PREAUTH-RCE-123 | NETGEAR | XR300 V1.0.1.4 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-124 | NETGEAR | WNAP320 V2.0.3 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-125 | Netis | WF2471 EN V1.2.29532 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-126 | TRENDnet | TEW-651BR 1.00B0013 | 认证前RCE | 1 | 已模拟 |
