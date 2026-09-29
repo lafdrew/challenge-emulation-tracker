@@ -129,3 +129,4 @@
 | PREAUTH-RCE-127 | Zyxel | ARMOR Z1 NBG6816 V1.00(AAWB.5)C0 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-128 | Belkin | N750 F9K1103 WW 1.10.16m | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-129 | TRENDnet | TEW-827DRU v2 2.04B03 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-130 | NETGEAR | WAC124 V1.0.4.6 | 认证前RCE | 1 | 已模拟 |
