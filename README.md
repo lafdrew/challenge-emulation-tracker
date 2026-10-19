@@ -144,3 +144,4 @@
 | PREAUTH-RCE-142 | NETGEAR | R8500 V1.0.2.94 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-143 | Tenda | AC7 V15.03.06.44 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-144 | NETGEAR | R7000 V1.0.9.42 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-145 | Tenda | AC5 V15.03.06.28 | 认证前RCE | 1 | 已模拟 |
