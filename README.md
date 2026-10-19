@@ -142,3 +142,4 @@
 | PREAUTH-RCE-140 | NETGEAR | Orbi RBR50 V2.2.1.210 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-141 | NETGEAR | R8000 V1.0.4.28 | 认证前RCE | 1 | 已模拟 |
 | PREAUTH-RCE-142 | NETGEAR | R8500 V1.0.2.94 | 认证前RCE | 1 | 已模拟 |
+| PREAUTH-RCE-143 | Tenda | AC7 V15.03.06.44 | 认证前RCE | 1 | 已模拟 |
